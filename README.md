@@ -16,10 +16,10 @@ fail_sa = suicide attempt
 sui2 = suicide mortality
 
 EXPOSUREs:
-D4 = exposure to any paternal infection
-I1 to I14 = exposure to specific paternal infection categories
-prefix "mom" or "dad" indicates infections
-suffix "period2" indicates that the exposures variables refer to exposures in the periods before, during, and after pregnancy (individuals exposed in multiple periods were excluded)
-For example, the variable momD4period2 indicates whether the dad has been diagnosed with any infection: never, during pregnancy, pre-pregnancy, post-pregancny periods
-suffix "trim" indicates trimesters of pregnancy in which the mother may have been diagnosed with infection
+- D4 = exposure to any paternal infection
+- I1 to I14 = exposure to specific paternal infection categories
+- prefix "mom" or "dad" indicates infections
+- suffix "period2" indicates that the exposures variables refer to exposures in the periods before, during, and after pregnancy (individuals exposed in multiple periods were excluded)
+- For example, the variable momD4period2 indicates whether the dad has been diagnosed with any infection: never, during pregnancy, pre-pregnancy, post-pregancny periods
+- suffix "trim" indicates trimesters of pregnancy in which the mother may have been diagnosed with infection
 
