@@ -3,10 +3,11 @@ This is the repository for the SAS and R codes used for the following paper:
 Orri M, Erlangsen A. 
 
 It contains the following files:
-- 1_analysis_variable_recoding.sas: recoding of initial variables
-- 2_analysis_suicide_attempt_maternal_infections.sas: descriptive statistics and associations between maternal infections and suicide attempt (including by trimester and sex)
-- 3_analysis_suicide_attempt_paternal_infections.sas: associations between paternal infections and suicide attempt (including by sex)
-- 4_analysis_suicide_maternal_and_paternal_infections.sas: associations of maternal and paternal infections with suicide mortality
+- 1_analysis_variable_recoding.sas: recoding of initial variables (SAS script)
+- 2_analysis_suicide_attempt_maternal_infections.sas: descriptive statistics and associations between maternal infections and suicide attempt (including by trimester and sex) (SAS script)
+- 3_analysis_suicide_attempt_paternal_infections.sas: associations between paternal infections and suicide attempt (including by sex) (SAS script)
+- 4_analysis_suicide_maternal_and_paternal_infections.sas: associations of maternal and paternal infections with suicide mortality (SAS script)
+- 5_figures: the figures presented in the manuscript (R script)
 
 
 **Note on variable names:**
