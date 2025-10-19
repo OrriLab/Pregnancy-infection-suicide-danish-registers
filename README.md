@@ -12,8 +12,8 @@ It contains the following files:
 **Note on variable names:**
 
 OUTCOMES:
-fail_sa = suicide attempt
-sui2 = suicide mortality
+- fail_sa = suicide attempt
+- sui2 = suicide mortality
 
 EXPOSUREs:
 - D4 = exposure to any paternal infection
